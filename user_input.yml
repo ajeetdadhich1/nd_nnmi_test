@@ -1,21 +1,12 @@
----
 add_devices_lab:
-  - ip: 10.1.1.5
-    country: "United States"
-  - ip: 10.1.1.6
-    country: "United States"
-delete_devices_lab:
-  - ip: 10.1.1.5
-    country: "United States"
-  - ip: 10.1.1.6
-    country: "United States"
-add_devices_prod:
-  - ip: 10.1.1.5
-    country: "United States"
-  - ip: 10.1.1.6
-    country: "United States"
-delete_devices_prod:
-  - ip: 10.1.1.5
-    country: "United States"
-  - ip: 10.1.1.6
-    country: "United States"
+  - ip: 10.1.1.9
+    country: ""
+# add_devices_prod:
+#   - ip: 
+#     country: ""
+# delete_devices_lab:
+#   - ip: 
+#     country: ""
+# delete_devices_prod:
+#   - ip: 
+#     country: ""
