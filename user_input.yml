@@ -1,0 +1,15 @@
+
+add_devices_lab:
+  - ip: 10.1.1.12
+    country: "Japan"
+  - ip: 10.1.1.11
+    country: "United States"
+# delete_devices_lab:
+#  - ip:
+#    country: ""
+# add_devices_prod:
+#  - ip:
+#    country: ""
+# delete_devices_prod:
+#  - ip:
+#    country: ""
